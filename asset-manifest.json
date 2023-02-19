@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieplanet/static/css/main.a9b319cd.css",
+    "main.js": "/movieplanet/static/js/main.35565743.js",
+    "index.html": "/movieplanet/index.html",
+    "static/media/search.svg": "/movieplanet/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.a9b319cd.css.map": "/movieplanet/static/css/main.a9b319cd.css.map",
+    "main.35565743.js.map": "/movieplanet/static/js/main.35565743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9b319cd.css",
+    "static/js/main.35565743.js"
+  ]
+}
